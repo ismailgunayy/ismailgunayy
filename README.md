@@ -1,6 +1,6 @@
 ## Hello, I'm **İsmail Günay** 👋
 
-### 📫 How to reach and follow me: 
+### How to reach and follow me: 
 - See what I've done so far on [LinkedIn](https://www.linkedin.com/in/ismailgunayy)
 - See what I think and what I like on [Twitter](https://www.twitter.com/ismailgunayy)
 - See my face on [Instagram](https://www.instagram.com/ismailgunayy) :)
