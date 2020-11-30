@@ -1,11 +1,11 @@
 ### Hi there 👋
 ## 📫 How to reach and follow me: 
-    [LinkedIn](https://www.linkedin.com/in/ismailgunayy)
-    [Twitter](https://www.twitter.com/ismailgunayy)
-    [Instagram](https://www.instagram.com/ismailgunayy)
+- See what I've done so far on [LinkedIn](https://www.linkedin.com/in/ismailgunayy)
+- See what I think and what I like on [Twitter](https://www.twitter.com/ismailgunayy)
+- See my face on [Instagram](https://www.instagram.com/ismailgunayy) :)
     
 ## I also make song covers on my YouTube channel:
-    [YouTube](https://www.youtube.com/ismailgunay23)
+- [YouTube](https://www.youtube.com/ismailgunay23)
 
 <!--
 **ismailgunayy/ismailgunayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
