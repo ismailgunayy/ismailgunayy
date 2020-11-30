@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=ismailgunayy&color=lightgrey) <h1 align='center'>Hello, I'm **İsmail Günay** 👋</h1>
+<h1 align='center'>Hello, I'm **İsmail Günay** 👋</h1>
 
-
+![](https://komarev.com/ghpvc/?username=ismailgunayy&color=lightgrey)
 ### How to reach and follow me: 
 - See what I've done so far on [LinkedIn](https://www.linkedin.com/in/ismailgunayy)
 - See what I think and what I like on [Twitter](https://www.twitter.com/ismailgunayy)
