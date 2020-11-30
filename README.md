@@ -1,4 +1,4 @@
-## Hello, I'm **İsmail Günay** ![](https://komarev.com/ghpvc/?username=ismailgunayy&color=lightgrey) 👋
+## Hello, I'm **İsmail Günay** 👋 ![](https://komarev.com/ghpvc/?username=ismailgunayy&color=lightgrey)
 
 
 ### How to reach and follow me: 
