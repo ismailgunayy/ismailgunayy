@@ -1,4 +1,3 @@
-<p align="center">
 Hello, this is **İsmail Günay**
 
 - 📜 [See my curriculum vitae on **LinkedIn**](https://www.linkedin.com/in/ismailgunayy)
@@ -10,7 +9,6 @@ Hello, this is **İsmail Günay**
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailgunayy&layout=compact&title_color=24292e&text_color=24292e&bg_color=fff" height="160px" />
 <img src="https://github-readme-stats.vercel.app/api?username=ismailgunayy&show_icons=true&theme=graywhite" height="160px" />
-</p>
 </p>
 
 <!--
