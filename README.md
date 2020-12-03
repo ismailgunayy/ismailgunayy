@@ -1,5 +1,6 @@
-Hello, this is **İsmail Günay**
+Hello, this is **İsmail Günay**. I'm a second grader in **Computer Engineering** at **IZTECH**. 
 
+**You can:**
 - 📜 [See my curriculum vitae on **LinkedIn**](https://www.linkedin.com/in/ismailgunayy)
 - 🎼 [Watch my covers on **YouTube**](https://www.youtube.com/ismailgunay23):
 - 📷 [Look at my photographs on **Instagram**](https://www.instagram.com/ismailgunayy)
