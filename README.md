@@ -1,12 +1,17 @@
 <h1 align='center'>Hello, I'm İsmail Günay 👋</h1>
 
-![](https://komarev.com/ghpvc/?username=ismailgunayy&color=lightgrey)
+<blockquote><h3>Always learning</h3></blockquote>
+
 ### How to reach and follow me: 
 - See what I've done so far on [LinkedIn](https://www.linkedin.com/in/ismailgunayy)
 - See what I think and what I like on [Twitter](https://www.twitter.com/ismailgunayy)
 - See my face on [Instagram](https://www.instagram.com/ismailgunayy) :)
-    
-### I also make covers to songs that i love on my [YouTube](https://www.youtube.com/ismailgunay23) channel:
+- I also make covers to songs that I love on my [YouTube](https://www.youtube.com/ismailgunay23) channel:
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailgunayy&layout=compact&title_color=24292e&text_color=24292e&bg_color=fff" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=ismailgunayy&show_icons=true&theme=graywhite" height="180px" />
+</p>
 
 <!--
 Here are some ideas to get you started:
@@ -21,5 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://hit.yhype.halp.im/github/profile?user_id=29682307)
