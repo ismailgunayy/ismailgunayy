@@ -7,7 +7,7 @@ Hello, this is **İsmail Günay**
 - 💬 [Talk to me about anything you want on **Twitter**](https://www.twitter.com/ismailgunayy)
 - 📫 [Or, you can contact me through **Mail**](mailto:ismailgunayy)
 
-<p align="center">
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailgunayy&layout=compact&title_color=24292e&text_color=24292e&bg_color=fff" height="160px" />
 <img src="https://github-readme-stats.vercel.app/api?username=ismailgunayy&show_icons=true&theme=graywhite" height="160px" />
 </p>
