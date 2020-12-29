@@ -2,8 +2,8 @@ Hello, this is **İsmail Günay**. I'm a second grader in **Computer Engineering
 
 **You can:**
 - 📜 [See my curriculum vitae on **LinkedIn**](https://www.linkedin.com/in/ismailgunayy)
-- 🎼 [Listen to (also watch) my covers on **YouTube**](https://www.youtube.com/ismailgunay23):
-- 📷 [Look at my photographs on **Instagram**](https://www.instagram.com/ismailgunayy)
+- 🎼 [Listen to (also watch) my covers on **YouTube**](https://www.youtube.com/ismailgunay23)
+<!-- - 📷 [Look at my photographs on **Instagram**](https://www.instagram.com/ismailgunayy) -->
 - 💬 [Talk to me about anything you want on **Twitter**](https://www.twitter.com/ismailgunayy)
 - 📫 [Or, you can contact me through **Mail**](mailto:ismailgunayy)
 
