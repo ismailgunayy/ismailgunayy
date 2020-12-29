@@ -9,7 +9,6 @@ Hello, this is **İsmail Günay**. I'm a second grader in **Computer Engineering
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailgunayy&layout=compact&title_color=24292e&text_color=24292e&bg_color=fff" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api?username=ismailgunayy&show_icons=true&theme=graywhite" height="160px" />
 </p>
 
 <!--
