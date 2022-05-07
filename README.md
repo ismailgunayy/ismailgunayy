@@ -3,7 +3,6 @@ Hi there 👋 I'm **İsmail Günay**. I'm a third grader in **Computer Engineeri
 **You can:**
 - 📜 [See my curriculum vitae on **LinkedIn**](https://www.linkedin.com/in/ismailgunayy)
 - 🎼 [Listen to (also watch) my covers on **YouTube**](https://www.youtube.com/ismailgunay23)
-- 💬 [Talk to me about anything you want on **Twitter**](https://www.twitter.com/ismailgunayy)
 - 📫 <a href="mailto:ismailggunay">Or, you can contact me through **E-Mail**</a>
 
 
