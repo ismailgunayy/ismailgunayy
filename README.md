@@ -4,7 +4,7 @@
 - 🧑‍💻 Mostly focused on **Frontend Development**
 - 📜 Trying to graduate from **Computer Engineering Department [@IZTECH](https://iyte.edu.tr)**.
 - 🎶 I have a [**YouTube channel**](https://www.youtube.com/ismailg%C3%BCnay23) in which I cover my favorite songs
-- 📪 You can reach me via my socials or [**e-mail**](mailto:ismailggunay@gmail.com)
+- 📪 You can reach me on social media or via [**e-mail**](mailto:ismailggunay@gmail.com)
 <!-- - ✒️ I regularly try to improve my writing skills on [Medium](https://medium.com/@ismailgunayy) -->
 
 ## Tech Stack
