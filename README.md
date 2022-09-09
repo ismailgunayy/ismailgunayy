@@ -7,7 +7,7 @@
 - 📪 You can reach me on social media or via [**e-mail**](mailto:ismailggunay@gmail.com)
 <!-- - ✒️ I regularly try to improve my writing skills on [**Medium**](https://medium.com/@ismailgunayy) -->
 
-## Tech Stack
+## Technologies
 
 <img
   alt="JavaScript"
