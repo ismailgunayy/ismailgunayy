@@ -7,7 +7,7 @@
 - 📪 You can reach me on social media or via [**e-mail**](mailto:ismailggunay@gmail.com)
 <!-- - ✒️ I regularly try to improve my writing skills on [**Medium**](https://medium.com/@ismailgunayy) -->
 
-## Technologies
+## I mostly use
 
 <img
   alt="JavaScript"
@@ -30,7 +30,7 @@
   src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
 />
 
-## Socials
+## Reach me on
 
 <a href="https://linkedin.com/in/ismailgunayy" target="_blank">
   <img
