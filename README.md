@@ -1,6 +1,6 @@
 # Hi there 👋 I'm İsmail
 
-- 💻 **Software Engineering Intern [@brewww](https://github.com/BrewInteractive)**
+- 💻 **Software Developer [@brewww](https://github.com/BrewInteractive)**
 - 🧑‍💻 Mostly focused on **Frontend Development**
 - 📜 Student of **Computer Engineering** Department **[@IZTECH](https://iyte.edu.tr)**
 - 🎶 I have a [**YouTube channel**](https://www.youtube.com/ismailg%C3%BCnay23) in which I cover my favorite songs
